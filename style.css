@@ -1,0 +1,54 @@
+.background{
+    position: absolute;
+    left: 50%;
+    background-image: url("images/WhatsApp\ Image\ 2022-08-02\ at\ 2.56.19\ PM.jpeg");
+    background-size: cover;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+
+}
+.elements{
+    margin-left: -585px;
+}
+
+.navbar2{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    margin-left: 566px;
+    grid-column-gap: 41px;
+    margin-top:-20px; margin-right: 114px; margin-left: 641px;
+
+
+}
+
+.collab{
+    margin-top: 84px;
+    font-family: fantasy; 
+}
+.lorem{
+    margin-top: -15px;
+    font-family: revert;
+
+}
+.buttons{
+    margin-top: 34px;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: start;
+    grid-column-gap: 20px;
+}
+.navbar{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.logo{
+    font-family: fantasy;
+    font-size: larger;
+  
+}
+.next{
+    margin-top: 55px;
+    margin-left: 39px;
+}
